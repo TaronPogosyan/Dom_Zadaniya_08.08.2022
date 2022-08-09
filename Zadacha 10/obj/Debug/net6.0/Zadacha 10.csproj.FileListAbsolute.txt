@@ -1,0 +1,15 @@
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\bin\Debug\net6.0\Zadacha 10.exe
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\bin\Debug\net6.0\Zadacha 10.deps.json
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\bin\Debug\net6.0\Zadacha 10.runtimeconfig.json
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\bin\Debug\net6.0\Zadacha 10.dll
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\bin\Debug\net6.0\Zadacha 10.pdb
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.csproj.AssemblyReference.cache
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.AssemblyInfoInputs.cache
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.AssemblyInfo.cs
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.dll
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\refint\Zadacha 10.dll
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.pdb
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\Zadacha 10.genruntimeconfig.cache
+C:\GeekBrains\Dom Zadaniya 08.08.2022\Zadacha 10\obj\Debug\net6.0\ref\Zadacha 10.dll
